@@ -1,0 +1,7 @@
+Tuple1 = ('Student name','Student class','Student percentage')
+Tuple2 = ('Sarvesh','FYMCA','70%')
+print(Tuple1)
+print(Tuple2)
+x = zip(Tuple1,Tuple2)
+print(tuple(x))
+print("After len(Tuple1): ",len(Tuple1))
