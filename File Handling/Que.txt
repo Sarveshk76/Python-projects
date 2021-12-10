@@ -1,0 +1,23 @@
+1. Is Python case sensitive when dealing with identifiers?
+a) yes.
+b) no
+c) machine dependent
+d) none of the mentioned
+2. Which of these in not a core data type?
+a) Lists
+b) Dictionary
+c) Tuples
+d) Class.
+3. Which is the correct operator for power(xy)?
+a) X^y
+b) X**y.
+c) X^^y
+d) None of the mentioned
+4. What is the output of print 0.1 + 0.2 == 0.3?
+a) True
+b) False.
+c) Machine dependent
+d) Error
+5. The value of the expressions 4/(3*(2-1)) and 4/3*(2-1) is the same.
+a) True.
+b) False

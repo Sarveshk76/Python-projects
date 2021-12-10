@@ -1,0 +1,5 @@
+Write a program that generate a quiz
+and uses two files-Question.txt and
+Answer.txt. The program open Question.txt
+and read question displays question with
+Options. Also its must shows the answer
