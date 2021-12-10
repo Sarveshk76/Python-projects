@@ -1,2 +1,2 @@
 # Python-projects
-These are the Python lessons that I've learn till now
+These are the Python lessons that I've learnt till now
